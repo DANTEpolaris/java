@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task21.task2102">
+<h3>Сравниваем модификаторы</h3>
+<p>Реализовать логику метода <mark>isAllModifiersContainSpecificModifier</mark>, который проверяет, содержит ли переданный параметр <mark class="user">allModifiers</mark> значение конкретного модификатора <mark class="user">specificModifier</mark>.</p>
+<p><strong>P.S.</strong> <em>Перед выполнением задания ознакомься с классом Modifier и реализацией методов </em><mark>isPublic</mark><em>, </em><mark>isStatic</mark><em> и т.п.</em></p>
+
+</div>

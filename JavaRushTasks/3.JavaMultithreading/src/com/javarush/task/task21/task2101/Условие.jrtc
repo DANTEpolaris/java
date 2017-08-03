@@ -1,0 +1,13 @@
+<div class="wdghtml" taskKey="com.javarush.task.task21.task2101">
+<h3>Определяем адрес сети</h3>
+<p>1. Даны IP-адрес и маска подсети, необходимо вычислить адрес сети &#8212; реализуй метод getNetAddress.<br />
+Используйте операцию поразрядной конъюнкции (логическое И).</p>
+<p><strong>Пример:</strong><br />
+<strong><em>IP-адрес:</em></strong> 11000000 10101000 00000001 00000010 (<span class="text-user"><strong>192.168.1.2</strong></span>)<br />
+<strong><em>Маска подсети:</em> </strong>11111111 11111111 11111110 00000000 (<span class="text-user"><strong>255.255.254.0</strong></span>)<br />
+<em><strong>Адрес сети:</strong></em> 11000000 10101000 00000000 00000000 (<span class="text-user"><strong>192.168.0.0</strong></span>)</p>
+<p>2. Реализовать метод <mark>print</mark>, который выведет в консоль данные в двоичном коде. Для IP-адреса(<span class="text-user"><strong>192.168.1.2</strong></span>)<br />
+должна быть выведена строка &#171;<em><strong>11000000 10101000 00000001 00000010</strong></em>&#187;<br />
+3. Метод <mark>main</mark> не участвует в тестировании</p>
+
+</div>
